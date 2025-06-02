@@ -62,7 +62,7 @@ This ensures all assets and modules load correctly, as browsers restrict some fe
 
 ## Credits
 
-- Inspired by [Sebastian Lague's procedural planet series]([https://www.youtube.com/playlist?list=PLFt_AvWsXl0dohbtVgHDNmgZV_UY7xZv7](https://youtube.com/playlist?list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8&si=ZcVQnvyrk-W88YK3))
+- Inspired by [Sebastian Lague's procedural planet series](https://youtube.com/playlist?list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8&si=ZcVQnvyrk-W88YK3)
 - Built with [Three.js](https://threejs.org/)
 
 ---
